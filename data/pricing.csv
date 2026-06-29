@@ -35,3 +35,5 @@ scrape_date,platform,market,currency,tier_name,fee_amount,fee_period,prop_value_
 2026-06-15,trade_me,NZ,NZD,Premium (>$450k RV),159,per_listing,450001,,,Rateable value threshold
 2026-06-22,trade_me,NZ,NZD,Standard (≤$450k RV),99,per_listing,,450000,,Rateable value threshold
 2026-06-22,trade_me,NZ,NZD,Premium (>$450k RV),159,per_listing,450001,,,Rateable value threshold
+2026-06-29,trade_me,NZ,NZD,Standard (≤$450k RV),99,per_listing,,450000,,Rateable value threshold
+2026-06-29,trade_me,NZ,NZD,Premium (>$450k RV),159,per_listing,450001,,,Rateable value threshold
